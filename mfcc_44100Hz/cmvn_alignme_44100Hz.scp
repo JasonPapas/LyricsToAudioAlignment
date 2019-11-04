@@ -1,0 +1,6 @@
+ADIZ /home/jason/kaldi/egs/jason/NUS48/mfcc_44100Hz/cmvn_alignme_44100Hz.ark:5
+JLEE /home/jason/kaldi/egs/jason/NUS48/mfcc_44100Hz/cmvn_alignme_44100Hz.ark:249
+KENN /home/jason/kaldi/egs/jason/NUS48/mfcc_44100Hz/cmvn_alignme_44100Hz.ark:493
+MCUR /home/jason/kaldi/egs/jason/NUS48/mfcc_44100Hz/cmvn_alignme_44100Hz.ark:737
+NJAT /home/jason/kaldi/egs/jason/NUS48/mfcc_44100Hz/cmvn_alignme_44100Hz.ark:981
+SAMF /home/jason/kaldi/egs/jason/NUS48/mfcc_44100Hz/cmvn_alignme_44100Hz.ark:1225
