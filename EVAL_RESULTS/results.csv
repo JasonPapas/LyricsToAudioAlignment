@@ -1,0 +1,9 @@
+Track,Average absolute error,Percentage of correct segments,Percentage of correct estimates for tolerance 0.3
+ADIZ-01,6.300,22.476,10.811
+JLEE-08,4.940,15.057,14.844
+KENN-10,0.060,77.761,95.939
+KENN-12,2.410,5.477,5.556
+MCUR-04,29.330,1.047,1.111
+MCUR-10,0.040,82.627,97.970
+NJAT-15,1.280,42.916,61.850
+SAMF-09,24.980,1.890,0.971
